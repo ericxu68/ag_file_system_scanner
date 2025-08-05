@@ -11,7 +11,7 @@ repository = "https://github.com/Aditya-A-garwal/ag_file_system_scanner"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-chrono = "0.4.24"
+chrono = "0.4.25"
 
 [[bin]]
 name = "fss"
